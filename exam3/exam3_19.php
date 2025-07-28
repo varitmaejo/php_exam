@@ -1,4 +1,5 @@
 <?php
+//การจัดการข้อมูลผู้ใช้
 // ฟังก์ชันตรวจสอบข้อมูล 
 function validateUser($userData)
 {

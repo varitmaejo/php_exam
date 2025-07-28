@@ -1,4 +1,5 @@
 <?php
+//ระบบคำนวณคะแนนสอบ
 // กำหนดค่าคงที่ 
 define("FULL_SCORE", 100);
 define("PASS_SCORE", 60);

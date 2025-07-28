@@ -1,4 +1,5 @@
 <?php
+//ค่าคงที่ (Constants)
 // การกำหนดค่าคงที่ด้วย define()
 define("SITE_NAME", "เว็บไซต์ของฉัน");
 define("VERSION", "1.0.0");

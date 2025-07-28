@@ -1,4 +1,5 @@
 <?php
+//ตัวดำเนินการกำหนดค่า (Assignment Operators)
 $score = 80; // กำหนดค่าเริ่มต้น
 echo "คะแนนเริ่มต้น: $score<br>";
 $score += 10; // เท่ากับ $score = $score + 10

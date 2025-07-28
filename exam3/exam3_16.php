@@ -1,4 +1,5 @@
 <?php 
+//var_dump() - แสดงข้อมูลละเอียด
 $array = ["apple", "banana", "orange"];
 $object = (object)["name" => "สมชาย", "age" => 30];
 $number = 42.5;

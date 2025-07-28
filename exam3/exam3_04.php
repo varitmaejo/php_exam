@@ -1,4 +1,5 @@
 <?php
+//ตัวดำเนินการเปรียบเทียบ (Comparison Operators)
 $x = 5;
 $y = "5";
 $z = 10; 

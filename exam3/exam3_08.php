@@ -1,4 +1,5 @@
 <?php
+//ตัวดำเนินการสตริง (String Operators)
 $firstName = "สมชาย";
 $lastName  = "ใจดี";
 // การต่อสตริงด้วย . (dot)

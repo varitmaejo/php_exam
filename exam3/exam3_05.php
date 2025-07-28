@@ -1,12 +1,20 @@
-<?php $age     = 20;
+<?php
+//ตัวดำเนินการทางตรรกศาสตร์ (Logical Operators)
+$age     = 20;
 $hasLicense    = true;
 $hasExperience = false;
 // ตัวดำเนินการ AND
-if ($age >= 18 && $hasLicense) {echo "สามารถขับรถได้<br>";}
+if ($age >= 18 && $hasLicense) {
+    echo "สามารถขับรถได้<br>";
+}
 // ตัวดำเนินการ OR
-if ($hasLicense || $hasExperience) {echo "มีคุณสมบัติขั้นพื้นฐาน<br>";}
+if ($hasLicense || $hasExperience) {
+    echo "มีคุณสมบัติขั้นพื้นฐาน<br>";
+}
 // ตัวดำเนินการ NOT
-if (! $hasExperience) {echo "ยังไม่มีประสบการณ์<br>";}
+if (! $hasExperience) {
+    echo "ยังไม่มีประสบการณ์<br>";
+}
 // ตัวดำเนินการ XOR
 $a = true;
 $b = false;

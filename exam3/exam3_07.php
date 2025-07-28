@@ -1,4 +1,6 @@
-<?php $counter = 5;
+<?php
+//ตัวดำเนินการเพิ่ม/ลดค่า (Increment/Decrement)
+$counter = 5;
 echo "ค่าเริ่มต้น: $counter<br>";    // Pre-increment
 echo "++counter: " . ++$counter . "<br>";                  // เพิ่มก่อน แล้วใช้ค่า
 echo "ค่าปัจจุบัน: $counter<br>";    // Post-increment

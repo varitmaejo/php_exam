@@ -1,4 +1,5 @@
 <?php
+//is_null() - ตรวจสอบค่า NULL
 $var1 = null;
 $var2 = "";
 $var3 = 0;

@@ -1,4 +1,5 @@
 <?php 
+//การใช้ (Short Echo Tag)
 $name = "สมชาย"; 
 $age = 25; 
 ?>

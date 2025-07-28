@@ -1,4 +1,5 @@
 <?php
+//ตัวดำเนินการทางคณิตศาสตร์ (Arithmetic Operators)
 $a = 10;
 $b = 3;
 echo "ตัวเลข: a = $a, b = $b<br>";

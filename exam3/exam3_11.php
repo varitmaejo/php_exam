@@ -1,4 +1,5 @@
 <?php
+//isset() - ตรวจสอบว่าตัวแปรมีค่า
 $name = "สมชาย";
 $age  = null;
 if (isset($name)) {
