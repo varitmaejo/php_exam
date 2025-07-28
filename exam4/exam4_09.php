@@ -1,4 +1,5 @@
 <?php
+//แสดงชื่อวัน
 $day = "Monday";
 
 switch ($day) {

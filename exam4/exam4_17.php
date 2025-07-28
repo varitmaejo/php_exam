@@ -1,4 +1,5 @@
 <?php
+//เกมทายตัวเลข
 $secret_number = 7;
 $guess = 0;
 $tries = 0;

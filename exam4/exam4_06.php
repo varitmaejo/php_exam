@@ -1,4 +1,5 @@
 <?php
+//ระบบส่วนลดสินค้า
 $total_amount = 1500;
 
 if ($total_amount >= 2000) {

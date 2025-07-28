@@ -1,4 +1,5 @@
 <?php
+//ตรวจสอบสิทธิ์การเข้าใช้งาน
 $age = 25;
 $is_member = true;
 $membership_type = "premium";

@@ -1,4 +1,5 @@
 <?php
+// ตรวจสอบรหัสผ่าน
 $password = "123456";
 $correct_password = "abc123";
 

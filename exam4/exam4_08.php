@@ -1,4 +1,5 @@
 <?php
+//ระบบจองตั้วเครื่องบิน
 $destination = "ญี่ปุ่น";
 $seat_available = true;
 $budget = 25000;

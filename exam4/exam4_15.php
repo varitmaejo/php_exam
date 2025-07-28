@@ -1,4 +1,5 @@
 <?php
+//สุ่มตัวเลขจนกว่าจะได้เลข 7
 $random_number = 0;
 $attempts = 0;
 

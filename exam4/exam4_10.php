@@ -1,4 +1,5 @@
 <?php
+//เมนูร้านอาหาร
 $menu_choice = 2;
 
 switch ($menu_choice) {
